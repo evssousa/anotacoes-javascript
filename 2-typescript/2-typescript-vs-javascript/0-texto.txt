@@ -1,0 +1,24 @@
+MESMA SINTAXE BÁSICA
+- declaração de variáveis
+- operadores lógicos e aritméticos
+- condicionais e repetições
+- funções
+- objetos
+- promises
+- etc
+
+SUPORTE AO ES6+
+- classes
+- arrow functions
+- async e await
+- etc
+
+TIPAGEM DE VARIÁVEIS
+- javascript: tipagem fraca e dinâmica
+- typescript: tipagem forte e estática
+
+FUNCIONAMENTO NO NAVEGADOR
+
+FUNCIONAMENTO COM O NODE.JS
+- javascript: linguagem padrão suportada pelo Node 
+- typescript: também não é suportado pelo Node e precisa ser compilado em código javascript

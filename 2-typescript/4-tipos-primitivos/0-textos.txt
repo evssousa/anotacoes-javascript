@@ -1,0 +1,18 @@
+- assim como no javascript, os tipos primitivos são os mais básicos e mais utilizados
+- são aqueles que você normalmente obtém usando o perador typeof
+- existem três mais utilizados
+    - boolean: os valores que equivalem a true ou false
+        let example: boolean = true
+
+    - number: como o javascript não diferencia inteiros e pontos flutuantes, tudo é apenas considerado como number também pelo typescript
+        let example: number = 10
+
+    - string: valores de texto, como "olá mundo"
+        let example: string = 'olá mundo'
+
+- além disso, temos também o array, que representa as listas de dados
+    - a sintaxe básica para especificar um array é utilizando o tipo dos seus elementos. Por exemplo, string[] ou number[]
+        let example: number[] = [1,2,3,4]
+
+    - idealmente, usamos arrays como sendo uma lista onde todos os elementos têm o mesmo tipo, mas esse comportamento também pode ser evitado
+        let example: Array<number> = [1,2,3,4]

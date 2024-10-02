@@ -1,0 +1,5 @@
+- tipagem para variáveis, objetos, parâmetros e retornos de funções
+- criação de nossos próprios tipos e interfaces
+- checagem de erros pela IDE enquanto escrevemos o código
+- função de autocompletar da IDE
+- excelente documentação e suporte da comunidade

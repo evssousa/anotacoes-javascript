@@ -1,0 +1,19 @@
+O QUE É?
+- é uma linguagem de programação
+- é um superset de javascript, ou seja, é um alinguagem construída "em cima" do javascript
+- todo código javascript válido é código typescript válido
+- a relação entre typescript e o javascript pode ser vista como semelhante a do SCSS e o CSS
+- é uma linguagem fortemente tipada
+
+
+POR QUE USAR?
+- após se acostumar a usar aumenta a sua produtividade
+- permite que sua IDE seja "mais inteligente", por exemplo, apontando erros e mostrando opções como autocomplete
+- permite que você identifique erros em tempo de compilação ao invés de em tempo de execução
+- curva de aprendizado reduzida, visto que ele usa a sintaxe do javascript e é possível adotar o typescript de forma parcial e gradativa
+- traz recursos extras que não existem nativamente no javascript, como tuplas, enums, melhor suporte a POO, etc
+
+QUANDO USAR?
+- typescript é especialmente vantajoso em projetos grandes
+- por ser um superset do javascript é importante que você já tenha um bom conhecimento deste
+- mesmo em um projeto escrito com typescript é preciso saber quando usar suas funcionalidades
